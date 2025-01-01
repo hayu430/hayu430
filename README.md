@@ -13,9 +13,6 @@ Hi there, I'm Hayu Yonatan! 👋<br><br>About Me<br><br>I'm a passionate Softwar
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hayu430&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=hayu430&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
